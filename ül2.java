@@ -1,13 +1,13 @@
-package ül1;
-
-public class ül2 {
+package Ã¼l1;
+		//teeb Stringi Ãœ12
+public class Ã¼l2 {
 	public static void main(String[] args) {
 		
 		//tollid
 		System.out.println("Tollid meetriks "+tollidM(10));
 		
 		//ellips
-		System.out.println(ellipsS(10,15)+" cmŽ2");
+		System.out.println(ellipsS(10,15)+" cmÅ½2");
 		
 		//minutid
 		System.out.println(aeg(137));
